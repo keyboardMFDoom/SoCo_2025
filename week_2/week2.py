@@ -99,3 +99,18 @@ def find_tests(prefix="test_"):
 find_tests()
 
 ##later more on locally and globally
+
+
+##########                                      Interpreter                                     ##########
+
+import sys ##information from operating system
+
+def main():
+    filename = sys.argv
+    print(filename)
+
+
+if __name__ == "__main__":
+    main()
+
+##now we are going to use json
