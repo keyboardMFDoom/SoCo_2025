@@ -17,3 +17,5 @@ Topics in week 2:
     - Importing functions from different files
     - Creating our own interpreter
     - Repeating assert, try, exception
+
+# Week 3
